@@ -1,17 +1,20 @@
-The page output describes a webpage titled "All About Raven" featuring information about a four-year-old miniature husky named Raven Rain Diaz.
+Raven Rain Diaz Website
 
-The main heading of the page is "Raven Rain Diaz", centered at the top.
+Description:
+This is a multi-page website dedicated to Raven Rain Diaz, a miniature husky and emotional support animal. The site provides information about Raven's daily life, personality, breed, and a photo gallery. It aims to be a user-friendly and engaging experience for dog lovers.
 
-Below the heading is a paragraph introducing Raven. It describes her as a small, energetic, and loving dog weighing around 19 pounds. 
-It mentions that people often mistake her for a boy, but clarifies that she is a girl. 
-The paragraph highlights her love for walks and playtime, her respectful nature with new people, and how she came from Mexico through a kind neighbor. 
-Importantly, it emphasizes Raven's role as an Emotional Support Animal, detailing how she provides comfort and support, especially in managing anxiety and depression.
+Pages:
+- Index.html: The home page introduces Raven and her role as an emotional support animal.
+- AboutRaven.html: Provides more detailed information about Raven's characteristics, daily routine, and facts about the Alaskan Klee Kai breed. This page also features a table.
+- Gallery.html: A photo gallery showcasing various moments of Raven's life.
+- Contact.html: Contains contact information (email hyperlink) for inquiries about Raven or emotional support animals.
 
-Following the paragraph is a bulleted list outlining some of Raven's characteristics:
-* Weights 20lbs
-* Alaskan Klee Kai
-* Loves treats
-* Loves to play
+Features:
+- Consistent design across all pages using an external CSS file (StylesheetCSS.css).
+- Appropriate meta tags for SEO.
+- Images and descriptive text on every page.
+- Responsive design considerations (via CSS).
+- User-friendly navigation.
 
-Finally, an image of Raven is displayed. It includes the alternative text "This is my dog named Raven" for accessibility. 
-The image has a thin gray border, some padding around it, and is centered on the page with some top margin to separate it from the list.
+How to Run:
+Open 'Index.html' in any modern web browser (e.g., Chrome, Firefox, Safari, Edge).
